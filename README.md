@@ -1,1 +1,2 @@
 # HospitalManagement
+The Hospital Management System (HMS) is a Java-based application designed to streamline hospital operations by managing doctors, patients, and appointments effectively. This system is built using Java with Hibernate (XML-based configuration using Hibernate 3.6) and follows a modular DAO (Data Access Object) architecture to separate database logic from business logic. It is built as a menu-driven application.
